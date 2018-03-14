@@ -83,3 +83,17 @@ span {
 	left: 8%;
 	width: 170px;
 }
+
+#toggle-heatmap {
+	font-size: 25px;
+	top: 60%;
+	left: 8%;
+	width: 170px;
+}
+
+#reset {
+	font-size: 25px;
+	top: 70%;
+	left: 8%;
+	width: 170px;
+}
