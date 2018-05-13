@@ -29,7 +29,7 @@ html, body {
 }
 
 .background-img {
-  opacity: 0.2;
+  opacity: 0.3;
   filter: blur(0.5rem) contrast(45%);
 }
 
